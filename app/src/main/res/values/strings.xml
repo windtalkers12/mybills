@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">간편장부</string>
+    <string name="editone">기록하자...</string>
+    <string name="month_out">이달지출</string>
+    <string name="out">지출</string>
+    <string name="month_in">이달수입</string>
+    <string name="in">수입</string>
+    <string name="budget">예산잉여</string>
+    <string name="month_budget">이달예산</string>
+    <string name="set_budget">예산설정</string>
+    <string name="see_excel">계산서 상세보기</string>
+    <string name="add_remark">비고추가</string>
+    <string name="remark">비고</string>
+    <string name="ensure">확인</string>
+    <string name="cancel">취소</string>
+    <string name="about">About</string>
+    <string name="setting">설정</string>
+    <string name="history_record">청구서 기록</string>
+    <string name="account_info">청구서 상세</string>
+    <string name="please_input_time">시간을 입력하세요(24시간 형식)</string>
+    <string name="please_search_info">검색 정보를 입력하세요</string>
+    <string name="date_empty">해당 기록이 없습니다.</string>
+    <string name="chart_info">세부사항</string>
+
+    <string name="history_info">이번 달 청구서 기록</string>
+    <string name="clear_all">모든 기록을 삭제하다</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="not_data">데이터가 없습니다</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

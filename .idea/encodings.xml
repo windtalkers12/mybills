@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/iot/b19060630/mybill/adapter/RecordPagerAdapter.java" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/iot/b19060630/mybill/database/DBOpenHelper.java" charset="UTF-8" />
+  </component>
+</project>
